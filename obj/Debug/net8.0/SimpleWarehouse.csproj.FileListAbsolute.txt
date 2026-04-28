@@ -1,0 +1,14 @@
+D:\c#\SimpleWarehouse\SimpleWarehouse\bin\Debug\net8.0\SimpleWarehouse.exe
+D:\c#\SimpleWarehouse\SimpleWarehouse\bin\Debug\net8.0\SimpleWarehouse.deps.json
+D:\c#\SimpleWarehouse\SimpleWarehouse\bin\Debug\net8.0\SimpleWarehouse.runtimeconfig.json
+D:\c#\SimpleWarehouse\SimpleWarehouse\bin\Debug\net8.0\SimpleWarehouse.dll
+D:\c#\SimpleWarehouse\SimpleWarehouse\bin\Debug\net8.0\SimpleWarehouse.pdb
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\SimpleWarehouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\SimpleWarehouse.AssemblyInfoInputs.cache
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\SimpleWarehouse.AssemblyInfo.cs
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\SimpleWarehouse.csproj.CoreCompileInputs.cache
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\SimpleWarehouse.dll
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\refint\SimpleWarehouse.dll
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\SimpleWarehouse.pdb
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\SimpleWarehouse.genruntimeconfig.cache
+D:\c#\SimpleWarehouse\SimpleWarehouse\obj\Debug\net8.0\ref\SimpleWarehouse.dll
